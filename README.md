@@ -1,7 +1,7 @@
 # Bike Sharing Stations Data 🚲
 
 ## Overview
-This project analyzes raw data from bike sharing stations.  
+This project analyzes raw data from bike sharing stations mainly using Powerbi
 It focuses on station details, usage patterns, and operational metrics to uncover insights into urban mobility and resource allocation.
 
 ---
